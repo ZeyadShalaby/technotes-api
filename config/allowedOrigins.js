@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://www.technotes.onrender.com',
+    'https://technotes-jo2u.onrender.com/',
  
 ];
 
